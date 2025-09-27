@@ -157,7 +157,7 @@ pnpm hardhat run scripts/deploy-kadena.ts --network kadenaTestnet
 ## 🤝 Contributing
 
 PRs, issues, and discussions welcome!
-See [CONTRIBUTING.md](CONTRIBUTING.md) for dev setup and ZK circuit guidelines.
+Please refer to dev setup and ZK circuit guidelines.
 
 ---
 
