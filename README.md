@@ -137,7 +137,7 @@ pnpm hardhat run scripts/deploy-kadena.ts --network kadenaTestnet
 | ZK Proofs            | Circom, snarkjs, Semaphore, **zkPDF**, Halo2 |
 | Storage & Encryption | Filecoin Synapse SDK, IPFS, Lit Protocol     |
 | Payments             | PayPal PyUSD, on-chain stablecoins           |
-| Provenance           | **MoPro** metadata                           |
+| Provenance           | **MoPro** metadata, zkPDF                            |
 | Multi-Chain          | **Kadena EVM**, Optimism, Filecoin, Hedera   |
 
 ---
