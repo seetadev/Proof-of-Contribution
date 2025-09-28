@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+#### Ethereum Foundation's mopro and zkPDF usage in Proof of Contribution 
+
+Our privacy-preserving attestations using zkPDF, on-chain proof verification, and reward token logic, accessibility of using invoice on mobile devices using mopro toolkit are all built on Ethereum-compatible chains using Solidity smart contracts and zk-proof tooling (Circom/Semaphore).
+ By advancing reproducible, verifiable contributor proofs and zk-based privacy on Ethereum infrastructure, the project directly aligns with the Ethereum Foundation’s mission to support decentralized, privacy-focused applications and next-generation zk technology.
+
+zk Deployed contract at etherscan: https://etherscan.io/tx/0xfc1fa5978f3d6398681f261f939cf418195118372523c9c1ee151f6a67936bed
+
+Demo Videos and mopro Invoice Android installer files: please visit https://drive.google.com/drive/u/0/folders/1VHOtBR-5vhxyQ6RTE6XmLqVuCOiy0o4k
+
+NFC Integration and MoPro integration: https://github.com/seetadev/Proof-of-Contribution/tree/main/proof-of-contribution-pyusd-billing
+
+NFC integration setup and demos: please visit https://drive.google.com/drive/u/0/folders/1SIoENBv2dXhwAkDOMqTJ9otWRtMmKXzG and https://drive.google.com/drive/u/0/folders/1VHOtBR-5vhxyQ6RTE6XmLqVuCOiy0o4k
+
 
 ## ZK Reviews, Feedback and Ratings
 
