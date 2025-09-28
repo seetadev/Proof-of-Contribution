@@ -51,7 +51,7 @@ We’ve extended Proof of Contribution to **Kadena EVM**, taking advantage of:
 
 **Why it matters:**
 Deploying our verifier, escrow, and token contracts on Kadena EVM gives contributors **faster, cheaper transactions** while retaining Ethereum-tooling familiarity (Solidity, Hardhat/Foundry).
-You can start building today on the **Kadena EVM testnet** and tap into a scalable PoW layer-1 network.
+We build on the **Kadena EVM testnet** and tap into a scalable PoW layer-1 network.
 
 ---
 
