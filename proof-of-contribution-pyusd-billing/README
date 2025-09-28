@@ -1,4 +1,4 @@
-#### Paypal's PyUSD deployment + usage in Proof of Contribution 
+### Paypal's PyUSD deployment + usage in Proof of Contribution 
 
 We integrate PayPal’s KYC flow and PyUSD stablecoin payouts as a core part of the developer invoicing and billing toolkit, enabling compliant, instant global payments to verified contributors.
 
