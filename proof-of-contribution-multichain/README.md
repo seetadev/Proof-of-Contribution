@@ -3,7 +3,13 @@
 
 We’ve deployed PR discrepancy and incident management on Kadena EVM to solve a major challenge for Web3 infrastructure contributors: the lack of verifiable and portable proofs across grant programs. With Proof of Contribution on Kadena, contributors can now prove work once and be recognized across ecosystems, creating fairness and trust in incentivization. Kadena’s Chainweb architecture gives us the scalability, security, and decentralization of Proof of Work while still delivering low fees and high throughput. Its EVM compatibility allows seamless deployment of verifier, escrow, and token contracts, enabling developers to build with familiar Ethereum tooling while benefiting from Kadena’s unique multi-chain scalability.
 
-Deployed Contract and transactions on Kadena: https://chain-20.evm-testnet-blockscout.chainweb.com/address/0x3ab0dCEF4F1A3d005B68F2527F96C47FAb656BAC 
+Deployed Contract and transactions on Kadena: https://chain-20.evm-testnet-blockscout.chainweb.com/address/0x3ab0dCEF4F1A3d005B68F2527F96C47FAb656BAC  
+
+Kadena invoice contract https://chain-20.evm-testnet-blockscout.chainweb.com/address/0xAfC28De0cFE83cB98dfD17A64937681124494702?tab=index 
+
+Kadena bridge contract https://chain-20.evm-testnet-blockscout.chainweb.com/address/0x7a2088a1bFc9d81c55368AE168C2C02570cB814F?tab=index 
+
+Kadena deployed contract link: https://chain-20.evm-testnet-blockscout.chainweb.com/address/0x3ab0dCEF4F1A3d005B68F2527F96C47FAb656BAC
 
 Demo Video: Please visit and watch Kadena Demo-web3 infra management for incident submission.webm at https://drive.google.com/drive/folders/1IWc1CisPFR8lDAhHypy_kYyWHybi0Ys-?usp=drive_link
 
